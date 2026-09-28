@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Интерактивна карта</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Русе</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/baba-tonka" class="custom-female-link" target="_top" rel="nofollow ugc">Баба Тонка</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            25.9605596,43.8342121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Панагюрище</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/new-page-1" class="custom-female-link" target="_top" rel="nofollow ugc">Райна Княгиня</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            24.184209,42.5000434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Казънлък</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/001679505376" class="custom-female-link" target="_top" rel="nofollow ugc">Тодора Меразчиева</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            25.3923156,42.6189358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сопот</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/stanislava-karaivanova" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Станислава Кара Иванова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/372206392414" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Гана Найденова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/new-page-2" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Мария Българова&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            24.7547037,42.6538863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пазарджик</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/034770120168" class="custom-female-link" target="_top" rel="nofollow ugc">Цвета Зографска</a><a href="https://ferret-denim-4e9d.squarespace.com/maria-sutic" class="custom-female-link" target="_top" rel="nofollow ugc">Мария Ангелова Сутич</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            24.3330451,42.1907049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Търново</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/bona-stancheva" class="custom-female-link" target="_top" rel="nofollow ugc">Бона Ганева Станчева</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            25.6196296,43.0755572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Горна Оряховица</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/elena-grancharova" class="custom-female-link" target="_top" rel="nofollow ugc">Елена Грънчарова</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            25.6903768,43.1227163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Батак</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/hristina-hranova" class="custom-female-link" target="_top" rel="nofollow ugc">Христина Хранова</a>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            24.2178869,41.9431556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>test 111 sopot </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.7681238,41.8576841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
